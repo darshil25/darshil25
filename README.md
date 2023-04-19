@@ -39,7 +39,7 @@
   <img alt="JavaScript" src="https://camo.githubusercontent.com/2905436ddb91d4e1c7c5ed3e61367f97a7585144de32f287269fc560e53eb284/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742532302d2532334637444631452e7376673f7374796c653d706c6173746963266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;">
   </p>
   
-  ## By the way here are some of my statistics 🚀
+  ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px" height="40px"> By the way here are some of my statistics 🚀
 ![darshil25's github stats](https://github-readme-stats.vercel.app/api?username=darshil25&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil25&theme=tokyonight" alt="mystreak"/>
 ![darshil25's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshil25&theme=tokyonight&layout=compact)
