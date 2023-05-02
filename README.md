@@ -40,9 +40,9 @@
   </p>
   
   ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px" height="40px"> By the way here are some of my statistics 🚀
-![darshil25's github stats](https://github-readme-stats.vercel.app/api?username=darshil25&show_icons=true&theme=tokyonight)
+![darshil25's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=darshil25&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil25&theme=tokyonight" alt="mystreak"/>
-![darshil25's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshil25&theme=tokyonight&layout=compact)
+![darshil25's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darshil25&theme=tokyonight&layout=compact)
     
    ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
