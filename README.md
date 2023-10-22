@@ -14,31 +14,31 @@
 <br>
 
 <p align="center">
-  <a href="https://darshil25.github.io/">
+  <a target="_blank" href="https://darshil25.github.io/">
     <img src="https://skillicons.dev/icons?i=java" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://darshil25.github.io/">
+  <a target="_blank" href="https://darshil25.github.io/">
     <img src="https://skillicons.dev/icons?i=cpp,javascript" />
   </a>
 </p>
   
 <p align="center">
-  <a href="https://darshil25.github.io/">
+  <a target="_blank" href="https://darshil25.github.io/">
     <img src="https://skillicons.dev/icons?i=html,css,react" />
   </a>
 </p>
   
  <p align="center">
-  <a href="https://darshil25.github.io/">
+  <a target="_blank" href="https://darshil25.github.io/">
     <img src="https://skillicons.dev/icons?i=vscode,github,git,eclipse" />
   </a>
 </p>
     
 <p align="center">
-  <a href="https://darshil25.github.io/">
+  <a target="_blank" href="https://darshil25.github.io/">
     <img src="https://skillicons.dev/icons?i=firebase,figma,androidstudio,bootstrap,redux" />
   </a>
 </p>
