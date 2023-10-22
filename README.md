@@ -3,11 +3,11 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: My full name is **Darshil Thummar** 
+- :credit_card: My full name is **Darshil Thummar**
 - :books: My major is **Software Engineering**
 - :earth_asia:  I'm currently living in **Ashta, Madhya Pradesh, India**.
 - :sweat_smile:  I have intermediate coding skills. :penguin:
-- :monocle_face: I'm interested in coding, sleeping, and watching film
+- :monocle_face: I'm interested in coding, sleeping, and watching films and web shows
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 
