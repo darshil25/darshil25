@@ -52,6 +52,7 @@
 ![darshil25's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=darshil25&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil25&theme=tokyonight" alt="mystreak"/>
 ![darshil25's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darshil25&theme=tokyonight&layout=compact)
+![Leetcode Stats](https://leetcard.jacoblin.cool/darshil__25)
     
    ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
