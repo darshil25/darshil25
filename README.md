@@ -6,8 +6,8 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 - :credit_card: My full name is **Darshil Thummar**
-- :books: My major is **Software Engineering**
-- :earth_asia:  I'm currently living in **Ashta, Madhya Pradesh, India**.
+- :books: My major is **Frontend Development**
+- :earth_asia:  I'm currently living in **MongoDB**.
 - :sweat_smile:  I have intermediate coding skills. :penguin:
 - :monocle_face: I'm interested in coding, sleeping, and watching films and web shows
 
