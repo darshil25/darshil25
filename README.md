@@ -7,7 +7,7 @@
 
 - :credit_card: My full name is **Darshil Thummar**
 - :books: My major is **Frontend Development**
-- :earth_asia:  I'm currently living in **MongoDB**.
+- :earth_asia:  I'm currently living in **VS Code**.
 - :sweat_smile:  I have intermediate coding skills. :penguin:
 - :monocle_face: I'm interested in coding, sleeping, and watching films and web shows
 
